@@ -8,7 +8,6 @@ For now, I'm publishing only `get.php`, `send.php`, and `db.php` — the back-en
 
 ## How to use Chatty?
 
----
 ### First method
 
 1. Go to [https://chatty.ct.ws/](https://chatty.ct.ws/)
