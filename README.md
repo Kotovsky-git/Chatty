@@ -4,11 +4,11 @@ Chatty is a Polish communicator, programmed in HTML and PHP.
 
 ---
 
-For now, I'm publishing only `get.php`, `send.php`, and `db.php` — the back-end only.
+For now, I'm publishing only `get.php`, `send.php`, and `db.php` — back-end only.
 
 ## How to use Chatty?
 
-### First method
+### First method (via browser)
 
 1. Go to [https://chatty.ct.ws/](https://chatty.ct.ws/)
 2. Create your account
@@ -17,15 +17,16 @@ For now, I'm publishing only `get.php`, `send.php`, and `db.php` — the back-en
 5. Have fun!
 
 ---
-### Second method
 
-Requirements:
-Python 3.8+
-PyQt5
-PyQtWebEngine
+### Second method (via ChattyApp)
 
-1. Download ChattyApp [Here](https://github.com/Kotovsky-git/ChattyApp/releases/tag/Release)
-2. Open app
+**Requirements:**
+- Python 3.8+
+- PyQt5
+- PyQtWebEngine
+
+1. Download ChattyApp [here](https://github.com/Kotovsky-git/ChattyApp/releases/tag/Release)
+2. Open the app
 3. Create your account
 4. Log in to your account
-5. Use the Chatty!
+5. Enjoy Chatty!
